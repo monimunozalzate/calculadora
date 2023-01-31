@@ -2,7 +2,7 @@
     "name": "calculadora",
     "version": "0.1.0",
     "private": true,
-    "homepage": "git remote add origin https://github.com/monimunozalzate/calculadoraReact",
+    "homepage": "git remote add origin https://github.com/monimunozalzate/calculadora",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
