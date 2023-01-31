@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/static/css/main.e460051c.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/static/js/main.d2c461c3.js",
+    "static/media/freeCodeCamp-logo.png": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/static/media/freeCodeCamp-logo.99b9a2eeb369f43ec18e.png",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/index.html",
+    "main.e460051c.css.map": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/static/css/main.e460051c.css.map",
+    "main.d2c461c3.js.map": "/git%20remote%20add%20origin%20https://github.com/monimunozalzate/calculadora/static/js/main.d2c461c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e460051c.css",
+    "static/js/main.d2c461c3.js"
+  ]
+}
